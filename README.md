@@ -1,24 +1,38 @@
-✍️ Komal Agarwal — Content & Writing Portfolio
+# ✍️ Komal Agarwal — Content & Writing Portfolio
 
-Where ideas come to write themselves. I just help them behave.
+> Where ideas become words, and words hopefully don't need a second draft.
 
-🌐 Live Website
+---
 
-🔗 View the Portfolio
+## 🌐 Live Website
 
-✨ Inside
-✍️ Content & Copywriting
-🔎 Research & Analysis
-🎤 Event & Communication Writing
-💻 Product & Technical Writing
-📱 Digital Content
-🛠️ Built With
-HTML5 & CSS3
-Google Fonts — Fraunces, Source Sans 3 & Caveat
-GitHub Pages
-🚀 Run Locally
-git clone https://github.com/codevenger1805/komal-editorial.git
+🔗 **[View the Live Portfolio](https://codevenger1805.github.io/komal-editorial/)**
 
-Then open index.html.
+---
 
-No frameworks were harmed in the making of this portfolio.
+## ✨ Inside
+
+- ✍️ Content & Copywriting
+- 🔎 Research & Analysis
+- 🎤 Event & Communication Writing
+- 💻 Product & Technical Writing
+- 📱 Digital Content
+
+---
+
+## 🛠️ Built With
+
+- **HTML5 & CSS3**
+- **Google Fonts** — *Fraunces*, *Source Sans 3*, and *Caveat*
+- **GitHub Pages** — Because free hosting is beautiful.
+
+---
+
+## 🚀 Local Development
+
+To run this website locally:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/codevenger1805/komal-editorial.git
